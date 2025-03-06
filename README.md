@@ -24,14 +24,6 @@ This repo contains the WIP spec for Ai17x. This is not a client library for soul
 
 A good place to start would be the examples below.
 
-
-| agent           | files                                                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| marcus_aurelius | [`agent.soul`](examples/community/marcus_aurelius/agent.soul) · [`memories.json`](examples/community/marcus_aurelius/memories.json) |
-| luce            | [`agent.soul`](examples/community/luce/agent.soul) · [`memories.json`](examples/community/luce/memories.json)                       |
-| irina           | [`agent.soul`](examples/community/irina/agent.soul) · [`memories.json`](examples/community/irina/memories.json)                     |
-| fartcoin-maxi   | [`agent.soul`](examples/soulgraph/fartcoin_maxi/agent.soul) · [`memories.json`](examples/soulgraph/fartcoin_maxi/memories.json)     |
-
 For a full index of examples with playground links, see [SOULS_INDEX.md](examples/SOUL_INDEX.md).
 
 ## Why does this need to exist?
